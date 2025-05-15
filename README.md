@@ -11,7 +11,7 @@ In this tutorial, we learn the basics of understanding Microsoft Azure by creati
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (21H2)
+- Windows 10
 
 <h2>High-Level Steps</h2>
 
